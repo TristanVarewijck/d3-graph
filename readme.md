@@ -1,6 +1,4 @@
-## d3 - barchart
-
-_Shields that represent my project - They change over time._ (https://shields.io/)
+# d3 - barchart
 
 ## Description
 For this course I had to make a visualization with d3, using an external data source. For this project I used data from different cryptocurrencies. I have processed this data in a bar chart.
@@ -8,7 +6,7 @@ For this course I had to make a visualization with d3, using an external data so
 ## Table of Contents
 
 - [Install](#install)
-- [API](#api)
+- [API URL](#api-url)
 - [Used Tools](#used-tools)
 - [Visuals](#visuals)
 - [!important files](#mportant-files)
@@ -46,26 +44,26 @@ API_URL='https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=ethp
 ## Used Tools
 
 - [git](https://git-scm.com/)
-- [d3.js](https://pugjs.org/api/getting-started.html)
+- [d3.js](https://d3js.org/)
 
 ## Visuals
 
 End - result: 
-![bar-chart](https://github.com/TristanVarewijck/d3-graph/blob/main/d3-current.png?raw=true)
+![bar-chart](https://github.com/TristanVarewijck/d3-graph/blob/main/visuals/d3-current.png)
 
 ## !mportant files
 
 Of course all files are important but you should at least have a look at these file if you are interested in this repo.
 Viewing these file will give you an idea of how this software is built.
 
-[main.js](https://github.com/TristanVarewijck/d3-graph/blob/master/index.js) :page_facing_up:
+[main.js](https://github.com/TristanVarewijck/d3-graph/blob/main/js/main.js) :page_facing_up:
 
 ## Meta
 
-Tristan Varewijck - tristan.varewijck@gmail.com - https://github.com/TristanVarewijck/functional-programming
+Tristan Varewijck - tristan.varewijck@gmail.com - https://github.com/TristanVarewijck/d3-graph
 
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 
 ## License
 
-Usage is provided under the [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) MIT. See [LICENSE](https://github.com/TristanVarewijck/functional-programming/blob/master/LICENSE) for the full details.
+Usage is provided under the [MIT License](https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt) MIT. See [LICENSE](https://github.com/TristanVarewijck/d3-graph/blob/main/LICENSE) for the full details.
